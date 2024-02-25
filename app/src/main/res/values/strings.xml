@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MealsApp</string>
+    <string name="search">Search</string>
+    <string name="meal_deleted">Meal Already Deleted</string>
+    <string name="meal_added">meal Already Added</string>
+    <string name="chose_meal">Chose Meal</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="measures">Measures</string>
+    <string name="meal_details">Meal Details</string>
+    <string name="meals_list">Meals List</string>
+</resources>

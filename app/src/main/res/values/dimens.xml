@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="drawer_width">200dp</dimen>
+    <dimen name="lazy_column_padding">16dp</dimen>
+    <dimen name="lazy_column_spacedBy">16dp</dimen>
+    <dimen name="list_meals_image_size">150dp</dimen>
+    <dimen name="home_list_image_size">175dp</dimen>
+    <dimen name="search_bar_heightIn">40.dp</dimen>
+    <dimen name="card_padding_vertical">4dp</dimen>
+    <dimen name="search_bar_padding_vertical">4dp</dimen>
+    <dimen name="search_bar_padding_horizontal">16dp</dimen>
+    <dimen name="text_padding">5dp</dimen>
+    <dimen name="row_padding">5dp</dimen>
+    <dimen name="text_tag_padding">8dp</dimen>
+    <dimen name="top_bar_top_padding">8dp</dimen>
+    <dimen name="top_bar_text_start_padding">25dp</dimen>
+    <dimen name="bottom_bar_roundedCornerShape">28dp</dimen>
+    <dimen name="navigation_rail_items_spacedBy">12dp</dimen>
+    <dimen name="text_area_padding">8dp</dimen>
+    <dimen name="card_tag_padding">5dp</dimen>
+    <dimen name="top_bar_back_button_padding_horizontal">24dp</dimen>
+    <dimen name="meal_components_bottom_padding">35dp</dimen>
+    <dimen name="bottom_navigation_bottom_padding">70dp</dimen>
+    <dimen name="navigation_rail_end_padding">70dp</dimen>
+    <dimen name="search_lazy_column_top_padding">55.dp</dimen>
+    <dimen name="top_bar_title_padding_end">40dp</dimen>
+    <dimen name="top_bar_vertical_padding">8dp</dimen>
+</resources>
